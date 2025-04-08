@@ -4,3 +4,4 @@ logs/
 *.tex
 *__pycache__
 visualization_results/
+*.DS_Store
