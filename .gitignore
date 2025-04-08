@@ -1,0 +1,6 @@
+data/
+logs/
+*.docx
+*.tex
+*__pycache__
+visualization_results/
